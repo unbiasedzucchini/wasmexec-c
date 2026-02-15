@@ -1,0 +1,6 @@
+server
+*.o
+*.db
+*.db-wal
+*.db-shm
+test/*.wasm
